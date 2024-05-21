@@ -1,0 +1,2 @@
+CREATE DATABASE dbLibraryManagement On (Name = dbLibraryManagement , FileName = "D:\University\RUPP-Year3\ISAD\Assignment\LibraryManagementSystem\dbLibraryManagement.mdf", Size = 8MB, MaxSize = Unlimited, FileGrowth = 8MB)
+Log On (Name = dbLibraryManagement_log, FileName = "D:\University\RUPP-Year3\ISAD\Assignment\LibraryManagementSystem\dbLibraryManagement.ldf", Size = 8MB, MaxSize = Unlimited, FileGrowth = 10%)
